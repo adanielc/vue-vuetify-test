@@ -1,4 +1,4 @@
-# vuetify
+# Proyecto base con Vue 2 y Vuetify 2. Con el archivo de server para heroku.
 
 ## Project setup
 ```
